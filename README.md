@@ -6,5 +6,5 @@
 * For Ubuntu "curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash" 
 * For MacOS "brew update && brew install azure-cli"  
 * Check out this page for other OS "https://learn.microsoft.com/en-us/cli/azure/install-azure-cli#install"
-4. az login /// az gin --use-device-code
+4. az login /// az login --use-device-code
 5. node newStorageAccount.js
