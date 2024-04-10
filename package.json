@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@azure/arm-resources": "^5.2.0",
+    "@azure/identity": "^4.0.1",
+    "@azure/storage-blob": "^12.17.0"
+  },
+  "name": "azure-sdk-js-example",
+  "description": "To run this program, follow the instructions below 1.Change the constants inside the newStorageAccount.js file 2.npm install @azure/arm-resources @azure/identity @azure/storage-blob 3.npm init -y 4.node newStorageAccount.js",
+  "version": "1.0.0",
+  "main": "newStorageAccount.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}
